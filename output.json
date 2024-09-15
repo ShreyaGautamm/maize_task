@@ -1,0 +1,899 @@
+{
+    "entities": [
+        {
+            "iri": "senato_repubblica",
+            "label": "Senato della Repubblica",
+            "span_start": 39,
+            "span_end": 62
+        },
+        {
+            "iri": "senato_repubblica",
+            "label": "Senato della Repubblica",
+            "span_start": 1718,
+            "span_end": 1741
+        },
+        {
+            "iri": "senato_repubblica",
+            "label": "Senato della Repubblica",
+            "span_start": 2102,
+            "span_end": 2125
+        },
+        {
+            "iri": "senato_repubblica",
+            "label": "Senato della Repubblica",
+            "span_start": 8839,
+            "span_end": 8862
+        },
+        {
+            "iri": "senato_repubblica",
+            "label": "Senato della Repubblica",
+            "span_start": 35895,
+            "span_end": 35918
+        },
+        {
+            "iri": "senato_repubblica",
+            "label": "Senato della Repubblica",
+            "span_start": 37619,
+            "span_end": 37642
+        },
+        {
+            "iri": "senato_repubblica",
+            "label": "Senato della Repubblica",
+            "span_start": 40104,
+            "span_end": 40127
+        },
+        {
+            "iri": "senato_repubblica",
+            "label": "Senato della Repubblica",
+            "span_start": 116343,
+            "span_end": 116366
+        },
+        {
+            "iri": "senato_repubblica",
+            "label": "Senato della Repubblica",
+            "span_start": 118796,
+            "span_end": 118819
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 3183,
+            "span_end": 3210
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 39362,
+            "span_end": 39389
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 39396,
+            "span_end": 39423
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 46869,
+            "span_end": 46896
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 52509,
+            "span_end": 52536
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 52812,
+            "span_end": 52839
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 53014,
+            "span_end": 53041
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 53153,
+            "span_end": 53180
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 53530,
+            "span_end": 53557
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 53763,
+            "span_end": 53790
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 54047,
+            "span_end": 54074
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 54237,
+            "span_end": 54264
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 54341,
+            "span_end": 54368
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 54522,
+            "span_end": 54549
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 55765,
+            "span_end": 55792
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 56523,
+            "span_end": 56550
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 56812,
+            "span_end": 56839
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 57128,
+            "span_end": 57155
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 58436,
+            "span_end": 58463
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 58692,
+            "span_end": 58719
+        },
+        {
+            "iri": "presidente_repubblica",
+            "label": "Presidente della Repubblica",
+            "span_start": 65409,
+            "span_end": 65436
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 3267,
+            "span_end": 3274
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 42368,
+            "span_end": 42375
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 44623,
+            "span_end": 44630
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 45574,
+            "span_end": 45581
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 48258,
+            "span_end": 48265
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 48400,
+            "span_end": 48407
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 48574,
+            "span_end": 48581
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 49451,
+            "span_end": 49458
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 55057,
+            "span_end": 55064
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 58292,
+            "span_end": 58299
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 58737,
+            "span_end": 58744
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 58937,
+            "span_end": 58944
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 59069,
+            "span_end": 59076
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 59507,
+            "span_end": 59514
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 62964,
+            "span_end": 62971
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 63368,
+            "span_end": 63375
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 89261,
+            "span_end": 89268
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 93948,
+            "span_end": 93955
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 97620,
+            "span_end": 97627
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 116838,
+            "span_end": 116845
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 116980,
+            "span_end": 116987
+        },
+        {
+            "iri": "governo",
+            "label": "Governo",
+            "span_start": 117311,
+            "span_end": 117318
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 6215,
+            "span_end": 6222
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 37842,
+            "span_end": 37849
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 38545,
+            "span_end": 38552
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 74938,
+            "span_end": 74945
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 75487,
+            "span_end": 75494
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 76112,
+            "span_end": 76119
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 76581,
+            "span_end": 76588
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 76801,
+            "span_end": 76808
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 78025,
+            "span_end": 78032
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 84448,
+            "span_end": 84455
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 84609,
+            "span_end": 84616
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 88789,
+            "span_end": 88796
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 88937,
+            "span_end": 88944
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 90334,
+            "span_end": 90341
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 90475,
+            "span_end": 90482
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 90701,
+            "span_end": 90708
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 90885,
+            "span_end": 90892
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 91656,
+            "span_end": 91663
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 92482,
+            "span_end": 92489
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 93575,
+            "span_end": 93582
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 94503,
+            "span_end": 94510
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 94612,
+            "span_end": 94619
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 95007,
+            "span_end": 95014
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 97698,
+            "span_end": 97705
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 97860,
+            "span_end": 97867
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 100724,
+            "span_end": 100731
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 101374,
+            "span_end": 101381
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 101388,
+            "span_end": 101395
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 109875,
+            "span_end": 109882
+        },
+        {
+            "iri": "regione",
+            "label": "Regione",
+            "span_start": 112887,
+            "span_end": 112894
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 2776,
+            "span_end": 2786
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 35838,
+            "span_end": 35848
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 35925,
+            "span_end": 35935
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 41508,
+            "span_end": 41518
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 42022,
+            "span_end": 42032
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 42907,
+            "span_end": 42917
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 43283,
+            "span_end": 43293
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 43496,
+            "span_end": 43506
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 43934,
+            "span_end": 43944
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 44084,
+            "span_end": 44094
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 53702,
+            "span_end": 53712
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 57290,
+            "span_end": 57300
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 61495,
+            "span_end": 61505
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 65689,
+            "span_end": 65699
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 65905,
+            "span_end": 65915
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 66122,
+            "span_end": 66132
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 80110,
+            "span_end": 80120
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 91915,
+            "span_end": 91925
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 91990,
+            "span_end": 92000
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 102895,
+            "span_end": 102905
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 103838,
+            "span_end": 103848
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 104558,
+            "span_end": 104568
+        },
+        {
+            "iri": "parlamento",
+            "label": "Parlamento",
+            "span_start": 105249,
+            "span_end": 105259
+        },
+        {
+            "iri": "csm",
+            "label": "Consiglio superiore della magistratura",
+            "span_start": 65349,
+            "span_end": 65387
+        },
+        {
+            "iri": "csm",
+            "label": "Consiglio superiore della magistratura",
+            "span_start": 66190,
+            "span_end": 66228
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 3378,
+            "span_end": 3387
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 52671,
+            "span_end": 52680
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 55486,
+            "span_end": 55495
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 55615,
+            "span_end": 55624
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 56772,
+            "span_end": 56781
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 58253,
+            "span_end": 58262
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 58350,
+            "span_end": 58359
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 58407,
+            "span_end": 58416
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 58491,
+            "span_end": 58500
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 58585,
+            "span_end": 58594
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 59449,
+            "span_end": 59458
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 59714,
+            "span_end": 59723
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 59849,
+            "span_end": 59858
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 59970,
+            "span_end": 59979
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 61868,
+            "span_end": 61877
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 62752,
+            "span_end": 62761
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 64356,
+            "span_end": 64365
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 65349,
+            "span_end": 65358
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 65835,
+            "span_end": 65844
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 65942,
+            "span_end": 65951
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 66143,
+            "span_end": 66152
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 66190,
+            "span_end": 66199
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 66917,
+            "span_end": 66926
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 67406,
+            "span_end": 67415
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 68506,
+            "span_end": 68515
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 71263,
+            "span_end": 71272
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 78412,
+            "span_end": 78421
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 90346,
+            "span_end": 90355
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 90405,
+            "span_end": 90414
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 91852,
+            "span_end": 91861
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 91939,
+            "span_end": 91948
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 92015,
+            "span_end": 92024
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 93687,
+            "span_end": 93696
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 94358,
+            "span_end": 94367
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 94537,
+            "span_end": 94546
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 95332,
+            "span_end": 95341
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 95764,
+            "span_end": 95773
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 97462,
+            "span_end": 97471
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 103856,
+            "span_end": 103865
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 108876,
+            "span_end": 108885
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 110387,
+            "span_end": 110396
+        },
+        {
+            "iri": "consiglio",
+            "label": "Consiglio",
+            "span_start": 118289,
+            "span_end": 118298
+        }
+    ],
+    "legal_references": []
+}
